@@ -1,1 +1,23 @@
-# url-encoder-decoder
+# URL Encoder Decoder
+
+A developer utility for encoding and decoding URL components.
+
+## Features
+
+- URL component encoding
+- Decoding
+- Clipboard support
+
+## How to Use
+
+Enter a URL component or text and choose an operation.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## Running Locally
+
+Open `index.html` in a modern web browser.
